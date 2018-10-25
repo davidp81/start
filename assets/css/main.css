@@ -2750,6 +2750,7 @@ input, select, textarea {
 
 				.tiles article h3 a:hover {
 					color: inherit !important;
+					cursor: pointer;
 				}
 
 			.tiles article .link.primary {
@@ -2860,7 +2861,6 @@ input, select, textarea {
 				height: 16em;
 				max-height: none;
 				min-height: 0;
-				cursor: pointer;
 			}
 
 				.tiles article h3 {
@@ -2879,7 +2879,6 @@ input, select, textarea {
 				.tiles article {
 					height: 20em;
 					width: 100% !important;
-					cursor: pointer;
 				}
 
 		}
