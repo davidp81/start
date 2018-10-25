@@ -2726,7 +2726,7 @@ input, select, textarea {
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;
-			cursor: pointer;
+			cursor: default;
 			height: 40vh;
 			max-height: 40em;
 			min-height: 23em;
@@ -2860,6 +2860,7 @@ input, select, textarea {
 				height: 16em;
 				max-height: none;
 				min-height: 0;
+				cursor: pointer;
 			}
 
 				.tiles article h3 {
@@ -2878,6 +2879,7 @@ input, select, textarea {
 				.tiles article {
 					height: 20em;
 					width: 100% !important;
+					cursor: pointer;
 				}
 
 		}
