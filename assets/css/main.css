@@ -31,7 +31,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	cursor: pointer;
 }
 
 ol, ul {
@@ -2705,9 +2704,7 @@ input, select, textarea {
 		border-top: 0 !important;
 	}
 
-.tiles {
-	 cursor: pointer;
-}
+
 		.tiles + * {
 			border-top: 0 !important;
 		}
@@ -2873,10 +2870,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-			.tiles {
+/*			.tiles {
 				display: block;
 			}
-
+*/
 				.tiles article {
 					height: 20em;
 					width: 100% !important;
