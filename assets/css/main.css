@@ -2771,7 +2771,7 @@ input, select, textarea {
 				bottom: 0;
 				content: '';
 				cursor: pointer;
-				/*display: block;*/
+				display: block;
 				height: 100%;
 				left: 0;
 				opacity: 0.85;
