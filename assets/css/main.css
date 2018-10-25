@@ -2870,10 +2870,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
-/*			.tiles {
+			.tiles {
 				display: block;
+				
 			}
-*/
+
 				.tiles article {
 					height: 20em;
 					width: 100% !important;
