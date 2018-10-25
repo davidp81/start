@@ -2764,14 +2764,17 @@ input, select, textarea {
 			}
 
 			.tiles article:before {
+				        display: inline-block;
+        -webkit-overflow-scrolling: touch !important;
+        overflow-y: auto !important;
 				-moz-transition: opacity 0.5s ease;
 				-webkit-transition: opacity 0.5s ease;
 				-ms-transition: opacity 0.5s ease;
 				transition: opacity 0.5s ease;
 				bottom: 0;
 				content: '';
-				cursor: pointer;
-				display: block;
+
+				/*display: block;*/
 				height: 100%;
 				left: 0;
 				opacity: 0.85;
