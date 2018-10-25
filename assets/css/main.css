@@ -2881,20 +2881,17 @@ input, select, textarea {
 					width: 100% !important;
 				}
 
-		}
-
-
-@media (pointer: fine) {
-
   a span {
     display: none;
   }
-
   a:hover span {
     display: inline-block;
   }
-  
-}
+
+
+		}
+
+
 
 /* Contact Method */
 
