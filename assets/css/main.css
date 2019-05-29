@@ -2702,6 +2702,7 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		border-top: 0 !important;
+		
 	}
 
 
@@ -2881,17 +2882,7 @@ input, select, textarea {
 					width: 100% !important;
 				}
 
-  a span {
-    display: none;
-  }
-  a:hover span {
-    display: inline-block;
-  }
-
-
 		}
-
-
 
 /* Contact Method */
 
